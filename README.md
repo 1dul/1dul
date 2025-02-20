@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Wahid Abdila</h1>
+<h1 align="center">Hi 👋, I'm Abdul Wahid Abdilah</h1>
 <h3 align="center">A passionate frontend developer from Davao City</h3>
 
 
